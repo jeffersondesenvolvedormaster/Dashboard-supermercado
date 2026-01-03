@@ -1,6 +1,6 @@
-# 📊 Dashboard de Vendas - Supermercado
+#  Dashboard de Vendas - Supermercado
 
-> Um dashboard interativo e profissional desenvolvido em **Power BI** para análise de vendas, desempenho de lojas e indicadores-chave de negócio (KPIs).
+> Dashboard interativo e profissional desenvolvido em **Power BI** para análise de vendas, desempenho de lojas e indicadores-chave de negócio (KPIs).
 
 ![Dashboard Preview](https://github.com/user-attachments/assets/b53b6906-6073-4da8-9a6b-1355ddbd917a)
 
@@ -8,7 +8,7 @@
 
 ---
 
-## 📋 Índice
+##  Índice
 
 - [Sobre o Projeto](#sobre-o-projeto)
 - [Funcionalidades](#funcionalidades)
@@ -22,7 +22,7 @@
 
 ---
 
-## 📌 Sobre o Projeto
+##  Sobre o Projeto
 
 Este projeto apresenta um **Dashboard de Vendas para Supermercado** desenvolvido com Power BI, criado para fins de portfólio e demonstração de habilidades em:
 
@@ -36,7 +36,7 @@ O dashboard fornece uma visão consolidada do desempenho de vendas, permitindo t
 
 ---
 
-## ✨ Funcionalidades
+##  Funcionalidades
 
 ✅ **Análise de Vendas por Loja** - Comparação de desempenho entre diferentes unidades  
 ✅ **Indicadores-Chave (KPIs)** - Métricas de faturamento, ticket médio e volume de vendas  
@@ -47,7 +47,7 @@ O dashboard fornece uma visão consolidada do desempenho de vendas, permitindo t
 
 ---
 
-## 🛠️ Tecnologias Utilizadas
+##  Tecnologias Utilizadas
 
 | Ferramenta | Versão | Descrição |
 |-----------|--------|-----------|
@@ -58,7 +58,7 @@ O dashboard fornece uma visão consolidada do desempenho de vendas, permitindo t
 
 ---
 
-## 📊 Dados e Estrutura
+##  Dados e Estrutura
 
 ### Estrutura de Dados
 
@@ -97,42 +97,12 @@ O projeto trabalha com as seguintes dimensões e fatos:
 
 ---
 
-## 🚀 Como Usar
 
-### Pré-requisitos
 
-- Power BI Desktop (Download: [powerbi.microsoft.com](https://powerbi.microsoft.com))
-- Windows 7 ou superior
-- Aproximadamente 500 MB de espaço em disco
-
-### Instalação e Abertura
-
-1. **Clone ou baixe o repositório**
-   ```bash
-   git clone https://github.com/jeffersondesenvolvedormaster/Dashboard-supermercado.git
-   cd Dashboard-supermercado
-   ```
-
-2. **Abra o arquivo no Power BI Desktop**
-   - Navegue até a pasta do projeto
-   - Clique duas vezes em `Dashboard Vendas Mercados (1).pbix`
-   - Aguarde o Power BI carregar o arquivo
-
-3. **Interaja com o Dashboard**
-   - Use os filtros para explorar os dados
-   - Clique nos gráficos para fazer drill-down
-   - Navegue entre as páginas do relatório
-
-### Funcionalidades Interativas
-
-- 🔍 **Filtro por Período**: Selecione datas específicas para análise temporal
-- 🏪 **Filtro por Loja**: Isolize dados de uma ou múltiplas unidades
-- 📦 **Filtro por Categoria**: Analise performance de categorias específicas
-- 📈 **Drill-Down**: Clique nos gráficos para detalhar informações
 
 ---
 
-## 📊 Visualizações Incluídas
+##  Visualizações Incluídas
 
 ### Página 1: Visão Geral
 - **Cartão de KPI** - Total de Vendas
@@ -156,7 +126,7 @@ O projeto trabalha com as seguintes dimensões e fatos:
 
 ---
 
-## 💡 Insights e Análises
+##  Insights e Análises
 
 ### KPIs Principais
 
@@ -177,7 +147,7 @@ O projeto trabalha com as seguintes dimensões e fatos:
 
 ---
 
-## 📂 Estrutura de Arquivos
+##  Estrutura de Arquivos
 
 ```
 📦 Dashboard-supermercado/
@@ -188,7 +158,7 @@ O projeto trabalha com as seguintes dimensões e fatos:
 
 ---
 
-## 🎯 Habilidades Demonstradas
+##  Habilidades Demonstradas
 
 Através deste projeto, demonstro competência em:
 
@@ -202,15 +172,6 @@ Através deste projeto, demonstro competência em:
 
 ---
 
-## 📈 Próximas Melhorias (Roadmap)
-
-- [ ] Integração com dados em tempo real via API
-- [ ] Previsão de vendas com análise preditiva
-- [ ] Análise de sazonalidade avançada
-- [ ] Exportação automática de relatórios por email
-- [ ] Dashboard para celular (Power BI Mobile)
-- [ ] Integração com dados de RH (absenteísmo vs. vendas)
-- [ ] Análise de satisfação do cliente
 
 ---
 
@@ -228,15 +189,7 @@ Este projeto está sob licença **MIT**. Veja o arquivo [LICENSE](LICENSE) para 
 
 ---
 
-## 🤝 Contribuições
 
-Contribuições, sugestões e melhorias são bem-vindas! Para contribuir:
-
-1. Faça um fork do projeto
-2. Crie uma branch para sua feature (`git checkout -b feature/AmazingFeature`)
-3. Commit suas mudanças (`git commit -m 'Add some AmazingFeature'`)
-4. Push para a branch (`git push origin feature/AmazingFeature`)
-5. Abra um Pull Request
 
 ---
 
@@ -246,13 +199,3 @@ Se este projeto foi útil para você, considere dar uma ⭐ no repositório!
 
 ---
 
-## 📧 Contato e Suporte
-
-Para dúvidas, sugestões ou reportar problemas:
-- 📧 Email: jeffersondesenvolvedormaster@gmail.com
-- 🐙 GitHub Issues: [Abra uma issue](https://github.com/jeffersondesenvolvedormaster/Dashboard-supermercado/issues)
-
----
-
-**Última atualização:** 24 de Dezembro de 2025  
-**Status:** ✅ Completo e funcional

@@ -1,6 +1,6 @@
 #  Dashboard de Vendas - Supermercado
 
-> Dashboard interativo e profissional desenvolvido em **Power BI** para análise de vendas, desempenho de lojas e indicadores-chave de negócio (KPIs).
+ Dashboard interativo desenvolvido em **Power BI** para análise de vendas, desempenho de lojas e indicadores-chave de negócio (KPIs).
 
 ![Dashboard Preview](https://github.com/user-attachments/assets/b53b6906-6073-4da8-9a6b-1355ddbd917a)
 
